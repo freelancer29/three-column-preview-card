@@ -30,7 +30,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [live site](https://freelancer29.github.io/three-column-preview-card/)
+- Live Site URL: [https://freelancer29.github.io/three-column-preview-card/](https://freelancer29.github.io/three-column-preview-card/)
 
 ## My process
 
